@@ -3,10 +3,19 @@
   "version": "1.0.0",
   "description": "A jade generator for KSS.",
   "main": "./lib/kss-jade-generator.js",
+  "homepage": "https://github.com/markscripter/kss-jade-generator",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/markscripter/kss-jade-generator.git"
+  },
+  "bugs" : {
+    "url" : "https://github.com/markscripter/kss-jade-generator/issues",
+    "email" : "markscript@gmail.com"
+  },
   "scripts": {},
   "author": {
     "name": "Mark Scripter",
-    "email": "mark@mscriptdesign.com",
+    "email": "markscript@gmail.com",
     "url": "http://github.com/markscripter/"
   },
   "license": "MIT",
