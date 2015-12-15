@@ -8,9 +8,9 @@
     "type": "git",
     "url": "git://github.com/markscripter/kss-jade-generator.git"
   },
-  "bugs" : {
-    "url" : "https://github.com/markscripter/kss-jade-generator/issues",
-    "email" : "markscript@gmail.com"
+  "bugs": {
+    "url": "https://github.com/markscripter/kss-jade-generator/issues",
+    "email": "markscript@gmail.com"
   },
   "scripts": {},
   "author": {
