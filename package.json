@@ -1,6 +1,6 @@
 {
   "name": "kss-jade-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A jade generator for KSS.",
   "main": "./lib/kss-jade-generator.js",
   "homepage": "https://github.com/markscripter/kss-jade-generator",
